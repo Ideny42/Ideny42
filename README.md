@@ -1,37 +1,33 @@
-# Yiheng Du · 杜毅衡
+<div align="center">
 
-**Reinforcement Learning · Agentic RL · Multimodal Learning**
+# Ideny42
 
-M.S. student in Computer Science at **Peking University** (2026–2029, expected), with a B.S. from **Sichuan University**. I build training systems for models that reason, use tools, and understand and generate multimodal content.
+**Learning to reason. Building to explore.**
 
-[Homepage](https://ideny42.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=718Y9mMAAAAJ&hl=en) · [CV](https://ideny42.github.io/assets/files/cv.pdf) · [Email](mailto:yihengdu42@gmail.com)
+Reinforcement Learning &nbsp; / &nbsp; Agentic RL &nbsp; / &nbsp; Multimodal
 
-## Open source & industry
+[Website](https://ideny42.github.io/) &nbsp; · &nbsp; [Research](https://scholar.google.com/citations?user=718Y9mMAAAAJ&hl=en)
 
-### [UniRL](https://github.com/Tencent-Hunyuan/UniRL)
-**Research Intern · Tencent · Hunyuan · Foundation Model Department**  
-Mar 2026 – Present
+</div>
 
-A main contributor to this reinforcement learning framework for unified multimodal models. I primarily develop the **prompt enhancement (PE) trainer** and **agentic RL** components: prompt optimization with image-generation feedback, and training workflows for multi-turn tool-use agents.
+---
 
-### [DLRover](https://github.com/intelligent-machine-learning/dlrover)
-**Research Intern · Ant Group · Data Intelligence Platform & Services Department**  
-Aug 2024 – Feb 2025
+### Building & contributing
 
-Contributed to efficient and reliable distributed training through **Flash-checkpoint** design and implementation, plus **Auto Accelerate** experiments and analysis for large-scale recommendation models.
+**[UniRL ↗](https://github.com/Tencent-Hunyuan/UniRL)**  
+Reinforcement learning for unified multimodal models. Working on prompt enhancement and agentic RL.
 
-## Selected research
+**[DLRover ↗](https://github.com/intelligent-machine-learning/dlrover)**  
+Reliable, efficient distributed training. Contributions to Flash-checkpoint and Auto Accelerate.
 
-- **[AlignedGen: Aligning Style Across Generated Images](https://arxiv.org/abs/2509.17088)** · NeurIPS 2025  
-  Equal-contribution first author. Training-free style-consistent image generation. [Code](https://github.com/Jiexuanz/AlignedGen) · [Project](https://jiexuanz.github.io/AlignedGen/)
-- **[Delayed Bidirectional Alignment via Disentangled Audio Semantics for Audio-Visual Segmentation](https://arxiv.org/abs/2512.20117)** · ECCV 2026  
-  Core method design, implementation, and experiments in collaboration with THU IVG Lab.
-- **[DLRover-RM: Resource Optimization for Deep Recommendation Models Training in the Cloud](https://doi.org/10.14778/3685800.3685832)** · PVLDB 2024
+**[AlignedGen ↗](https://github.com/Jiexuanz/AlignedGen)**  
+Consistent visual styles across generated images — without additional training.
 
-Research experience at **Peking University VILLA Lab** since March 2025.
+**[jev-keyboard ↗](https://github.com/Ideny42/jev-keyboard)**  
+A small exploration in better typing: Jev-powered candidate reranking for Rime.
 
-## Background
+---
 
-ICPC regional gold medalist · CCSP gold medalist · NOI bronze medalist · APIO silver medalist
-
-**Tools I work with:** Python, C/C++, PyTorch, Transformers, Linux, Docker, Kubernetes.
+<div align="center">
+<sub>Python &nbsp; · &nbsp; C/C++ &nbsp; · &nbsp; PyTorch &nbsp; · &nbsp; Linux</sub>
+</div>
